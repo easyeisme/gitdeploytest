@@ -1,2 +1,2 @@
 Git Deploy Test<br/>
-v1.1
+v1.2
